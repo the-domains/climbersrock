@@ -1,0 +1,28 @@
+name: climbersrock
+favicon: null
+layout_spectrum: 0.03261916385963559
+typography_spectrum: 0.9681894953828305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6613557406235486
+  lightness: 0.05336752044968307
+  saturation: 0.23142063315026462
+  rhythmicContrast: 0.6574270713608712
+purpose: []
